@@ -50,7 +50,7 @@ try:
     submit_button = driver.find_element(By.CSS_SELECTOR, "#solve")
     submit_button.click()
 
-    time.sleep(30)
+    time.sleep(10)
 
 
 except Exception as ex:
