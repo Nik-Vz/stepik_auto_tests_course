@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 
 import time
 
-
+# хуй пойму
 # options = ...
 driver = webdriver.Chrome()
 url = "https://suninjuly.github.io/find_link_text"
