@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 import time
-
+# 13
 
 # options = ...
 driver = webdriver.Chrome()
