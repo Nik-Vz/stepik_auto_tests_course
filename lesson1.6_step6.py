@@ -8,7 +8,6 @@ import time
 driver = webdriver.Chrome()
 url = "https://suninjuly.github.io/find_link_text"
 
-# 12
 try:
     driver.maximize_window()
     driver.get(url)
