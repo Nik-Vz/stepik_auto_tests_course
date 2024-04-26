@@ -2,11 +2,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 import time
-# и тут тоже
 
+# хуй пойму
 # options = ...
 driver = webdriver.Chrome()
-url = "https://suninjuly.github.io/simple_form_find_task.html"
+url = "https://suninjuly.github.io/find_link_text"
 
 try:
     driver.maximize_window()
